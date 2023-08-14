@@ -1,5 +1,6 @@
-const div = document.querySelector("#Botón");
+const div = document.querySelector("#Botóndiv");
     
-div.addEventListener("click", function() {
+div.addEventListener('click', function() {
     alert('Hola! Soy el div');
-}, false);
+});
+
